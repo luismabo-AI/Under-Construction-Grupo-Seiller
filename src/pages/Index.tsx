@@ -19,7 +19,7 @@ const Index = () => {
         {/* Logo */}
         <div className="mb-12">
           <img 
-            src="/lovable-uploads/a3fe7d9f-e534-45a6-9a2d-32d6ef92482a.png"
+            src="/lovable-uploads/a97c340e-a728-4535-ae8e-2f94e24a6f0a.png"
             alt="Logo"
             className="w-[500px] h-auto mx-auto glow-effect pulse-glow"
           />
