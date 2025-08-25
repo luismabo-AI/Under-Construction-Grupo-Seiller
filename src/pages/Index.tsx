@@ -21,7 +21,7 @@ const Index = () => {
           <img 
             src="/lovable-uploads/a3fe7d9f-e534-45a6-9a2d-32d6ef92482a.png"
             alt="Logo"
-            className="w-32 h-32 mx-auto glow-effect pulse-glow"
+            className="w-[500px] h-auto mx-auto glow-effect pulse-glow"
           />
         </div>
 
